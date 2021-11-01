@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"/>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="V!?d9[B2m?-u1oF5A`(~" x="0" y="0"><statement name="HANDLER"><block type="device_show_number" id="$vItFi}KBcHMMC,_yJZ`"><value name="number"><block type="celsius" id="j=$T/:xZch~,OJF]AR=g"><field name="pin">DigitalPin.P0</field></block></value></block></statement></block></xml>
